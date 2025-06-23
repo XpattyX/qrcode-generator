@@ -189,7 +189,7 @@ export default function HomePage() {
   };
 
   return (
-    <div className="container bg-white lg:rounded-lg min-h-[90vh] px-10 py-6 flex flex-col gap-4">
+    <div className="container bg-white lg:rounded-lg min-h-[90vh] px-10 py-6 flex flex-col gap-4 mb-5">
       {/* Mode Toggle */}
       <div className="flex justify-center mb-6">
         <div className="bg-gray-100 rounded-lg p-1 flex">
